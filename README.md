@@ -10,7 +10,6 @@ The purpose is to showcase my a bit of capability with the Julia language
 ## The 10 Problems and their respective solutions
 This repo will contain 10 .ipynb solution report files
 
-- [ ] Use image processing and use a popular machine learning algorithm to identify characters from pictures with high accuracy
+1. Use image processing and use a popular machine learning algorithm to identify characters from pictures with high accuracy
 [Kaggle Tutorial]: https://www.kaggle.com/c/street-view-getting-started-with-julia/details/julia-tutorial
-
 [Solution 1](../blob/master/JuliaSolution#1.ipynb)

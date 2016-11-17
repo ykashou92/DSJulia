@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="141.42mm" height="100mm" viewBox="0 0 141.42 100"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot yscalable" id="img-6f1a4358-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-6f1a4358-2">
+    <text x="77.19" y="88.39" text-anchor="middle" dy="0.6em">Clarity</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-6f1a4358-3">
+    <text x="29.8" y="81.72" text-anchor="middle" dy="0.6em">VS2</text>
+    <text x="53.5" y="81.72" text-anchor="middle" dy="0.6em">VS1</text>
+    <text x="77.19" y="81.72" text-anchor="middle" dy="0.6em">VVS1</text>
+    <text x="100.88" y="81.72" text-anchor="middle" dy="0.6em">VVS2</text>
+    <text x="124.58" y="81.72" text-anchor="middle" dy="0.6em">IF</text>
+  </g>
+<g clip-path="url(#img-6f1a4358-4)">
+  <g id="img-6f1a4358-5">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-6f1a4358-6">
+      <rect x="17.96" y="10.61" width="118.46" height="70.1"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-6f1a4358-7">
+      <path fill="none" d="M17.96,78.72 L 136.42 78.72"/>
+      <path fill="none" d="M17.96,62.19 L 136.42 62.19"/>
+      <path fill="none" d="M17.96,45.66 L 136.42 45.66"/>
+      <path fill="none" d="M17.96,29.14 L 136.42 29.14"/>
+      <path fill="none" d="M17.96,12.61 L 136.42 12.61"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-6f1a4358-8">
+      <path fill="none" d="M41.65,10.61 L 41.65 80.72"/>
+      <path fill="none" d="M65.34,10.61 L 65.34 80.72"/>
+      <path fill="none" d="M89.04,10.61 L 89.04 80.72"/>
+      <path fill="none" d="M112.73,10.61 L 112.73 80.72"/>
+    </g>
+    <g class="plotpanel" id="img-6f1a4358-9">
+      <g class="geometry" stroke-width="0.3" id="img-6f1a4358-10">
+        <use xlink:href="#img-6f1a4358-11" x="77.19" y="75.99" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="77.19" y="75.86" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="77.19" y="74.2" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="77.19" y="73.89" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="77.19" y="73.72" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="77.19" y="73.37" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="77.19" y="73.33" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="77.19" y="72.85" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="77.19" y="72.7" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="77.19" y="68.37" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="77.19" y="76.07" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="77.19" y="32.27" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="77.19" y="27.21" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="77.19" y="25.81" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="100.88" y="33.19" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="100.88" y="32.74" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="124.58" y="57.19" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="124.58" y="54.4" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="124.58" y="50.25" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="124.58" y="47.11" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="124.58" y="46.04" fill="#008000" stroke="#FFFFFF"/>
+        <use xlink:href="#img-6f1a4358-11" x="124.58" y="32.73" fill="#008000" stroke="#FFFFFF"/>
+        <rect x="24.57" y="49.39" width="10.47" height="18.02" fill="#008000" stroke="#008000"/>
+        <rect x="48.26" y="53.33" width="10.47" height="19.64" fill="#008000" stroke="#008000"/>
+        <rect x="71.96" y="55.19" width="10.47" height="12.19" fill="#008000" stroke="#008000"/>
+        <rect x="95.65" y="54.61" width="10.47" height="12.8" fill="#008000" stroke="#008000"/>
+        <rect x="119.34" y="68.06" width="10.47" height="7.1" fill="#008000" stroke="#008000"/>
+        <path fill="none" d="M26.32,46.15 L 33.29 46.15" stroke="#008000"/>
+        <path fill="none" d="M50.01,40.97 L 56.99 40.97" stroke="#008000"/>
+        <path fill="none" d="M73.7,39.68 L 80.68 39.68" stroke="#008000"/>
+        <path fill="none" d="M97.39,40.6 L 104.37 40.6" stroke="#008000"/>
+        <path fill="none" d="M121.09,57.65 L 128.06 57.65" stroke="#008000"/>
+        <path fill="none" d="M26.32,76.61 L 33.29 76.61" stroke="#008000"/>
+        <path fill="none" d="M50.01,76.38 L 56.99 76.38" stroke="#008000"/>
+        <path fill="none" d="M73.7,67.43 L 80.68 67.43" stroke="#008000"/>
+        <path fill="none" d="M97.39,76.38 L 104.37 76.38" stroke="#008000"/>
+        <path fill="none" d="M121.09,76.32 L 128.06 76.32" stroke="#008000"/>
+        <path fill="none" d="M29.8,49.39 L 29.8 46.15" stroke="#008000"/>
+        <path fill="none" d="M53.5,53.33 L 53.5 40.97" stroke="#008000"/>
+        <path fill="none" d="M77.19,55.19 L 77.19 39.68" stroke="#008000"/>
+        <path fill="none" d="M100.88,54.61 L 100.88 40.6" stroke="#008000"/>
+        <path fill="none" d="M124.58,68.06 L 124.58 57.65" stroke="#008000"/>
+        <path fill="none" d="M29.8,67.41 L 29.8 76.61" stroke="#008000"/>
+        <path fill="none" d="M53.5,72.97 L 53.5 76.38" stroke="#008000"/>
+        <path fill="none" d="M77.19,67.39 L 77.19 67.43" stroke="#008000"/>
+        <path fill="none" d="M100.88,67.4 L 100.88 76.38" stroke="#008000"/>
+        <path fill="none" d="M124.58,75.16 L 124.58 76.32" stroke="#008000"/>
+        <g stroke-width="0.6" id="img-6f1a4358-12">
+          <path fill="none" d="M26.32,59.75 L 33.29 59.75" stroke="#8CEF74"/>
+          <path fill="none" d="M50.01,64.76 L 56.99 64.76" stroke="#8CEF74"/>
+          <path fill="none" d="M73.7,63.8 L 80.68 63.8" stroke="#8CEF74"/>
+          <path fill="none" d="M97.39,63.73 L 104.37 63.73" stroke="#8CEF74"/>
+          <path fill="none" d="M121.09,74.53 L 128.06 74.53" stroke="#8CEF74"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-6f1a4358-13">
+    <text x="16.96" y="78.72" text-anchor="end" dy="0.35em">0</text>
+    <text x="16.96" y="62.19" text-anchor="end" dy="0.35em">5</text>
+    <text x="16.96" y="45.66" text-anchor="end" dy="0.35em">10</text>
+    <text x="16.96" y="29.14" text-anchor="end" dy="0.35em">15</text>
+    <text x="16.96" y="12.61" text-anchor="end" dy="0.35em">20</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-6f1a4358-14">
+    <text x="8.81" y="43.66" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 45.66)">AdjustedPrice</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-6f1a4358-15">
+    <text x="77.19" y="5" text-anchor="middle" dy="0.6em">My plot</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-6f1a4358-4">
+  <path d="M17.96,10.61 L 136.42 10.61 136.42 80.72 17.96 80.72" />
+</clipPath>
+  <g id="img-6f1a4358-11">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+</defs>
+</svg>
